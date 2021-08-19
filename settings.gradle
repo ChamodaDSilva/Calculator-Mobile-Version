@@ -1,0 +1,2 @@
+rootProject.name = "Layout-Weight"
+include ':app'
